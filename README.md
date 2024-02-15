@@ -1,6 +1,6 @@
 # password-generator : Creating Strong and Secure Passwords
 ## Live-Link1 : https://password-generator-hazel-eight.vercel.app
-## Live-Link2 :
+## Live-Link2 : https://iamakr97.github.io/password-generator/
 
 <img width="646" alt="Screenshot 2024-02-15 172726" src="https://github.com/iamakr97/password-generator/assets/122173165/a41677e9-7510-4d2d-bf51-dd1bb5f19726">
  
